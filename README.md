@@ -8,7 +8,7 @@ Mass spectrometry imaging and complementary techniques open collaboration.
 * Evaluate and compare existing registration methods on “benchmark” data
 
 ### How can I get involved?
-Please join the [mailing list](#mailing-lists) and the [next meeting](#next-meeting). If you have data (MSI data and a complementary imaging modality, e.g. H&E, immunofluorescnce, imaging mass cytometry, ...) that you are willing to share, please consider [sharing it with the community](#sharing-data).
+Please join us at the [next meeting](#next-meeting)! You can also join the [mailing list](#mailing-lists) to be kept up-to-date as the project progresses. If you have data (MSI data and a complementary imaging modality, e.g. H&E, immunofluorescnce, imaging mass cytometry, ...) that you are willing to share, please consider [sharing it with the community](#sharing-data). 
 
 ### Next meeting
 The next meeting is due to take place on 20/10/2021 at 16:00 CET. 
