@@ -1,4 +1,5 @@
-# MSIandCo
+<img src="https://raw.githubusercontent.com/MSIandCo/MSIandCo/main/logo.png" width="300">
+
 Mass spectrometry imaging and complementary techniques open collaboration.
 
 ### Aims
