@@ -20,7 +20,7 @@ The next meeting is planned to take place before Christmas 2021 and will be anno
 * Data format design/development mailing list [Subscribe](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)
 
 ## Sharing data
-Data shared as part of this collaboration will be used to:
+Data shared as part of this collaboration will help to:
 
 * form a set of 'benchmark' data which will be published and hosted on a public data repository, similar in style to [Oetjen et al.](https://academic.oup.com/gigascience/article/4/1/s13742-015-0059-4/2707545), but focussed on multi-modal data. 
 * understand use-cases to develop new format/extension of [imzML](https://imzml.github.io/) optimised for multi-modal data. 
