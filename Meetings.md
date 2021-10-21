@@ -24,7 +24,7 @@ The first meeting of the open collaboration provided a brief introduction to mas
 
 #### Suggestions:
 
-* Possibility of developing a 'human interpretation' evaluation metric for registration, similar to [Ovchinnikova1 et al.](https://link.springer.com/article/10.1186/s12859-020-3425-x).
+* Possibility of developing a 'human interpretation' evaluation metric for registration, similar to [Ovchinnikova et al.](https://link.springer.com/article/10.1186/s12859-020-3425-x).
 * Using simulated data as a *ground truth* for evaluating registration techniques. Such simulated data could also potentially be used for [registration directly](https://arxiv.org/pdf/2004.10282.pdf).
 * Developing/using model systems as a *ground truth* for evaluating registration techniques, e.g. printed slide or commercial 3D skin model (has layers and are reproducible).
 * Building on/itegrating with existing formats used in microscopy (e.g. [OME-TIFF](https://docs.openmicroscopy.org/ome-model/5.6.3/ome-tiff/), [OME-Zarr / NGFF](https://ngff.openmicroscopy.org/latest/))
