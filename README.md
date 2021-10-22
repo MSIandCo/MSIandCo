@@ -9,7 +9,10 @@ Mass spectrometry imaging and complementary techniques open collaboration.
 * Evaluate and compare existing registration methods on “benchmark” data
 
 ### How can I get involved?
-Please join us at the [next meeting](#next-meeting)! You can also join the [mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco) to be kept up-to-date as the project progresses. If you have data (MSI data and a complementary imaging modality, e.g. H&E, immunofluorescnce, imaging mass cytometry, ...) that you are willing to share, please consider [sharing it with the community](#sharing-data). If you are interested in the design and development of a new data format for multi-modal data, please join the [data format mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format).
+* Join us at the [next meeting](#next-meeting)! 
+* Join one of the [mailing lists](#mailing-lists) to be kept up to date as the project progresses. 
+* [Share your data](#sharing-data) to ensure your specific use-case is represented. 
+* Help us design a new data format for multi-modal data ([data format mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)).
 
 ### Next meeting
 The next meeting is planned to take place before Christmas 2021 and will be announced on the mailing list. For information on what has been discussed at previous meetings, please see the [meeting notes](Meetings.md).
