@@ -10,17 +10,21 @@ Mass spectrometry imaging and complementary techniques open collaboration.
 
 ### How can I get involved?
 * Join us at the [next meeting](#next-meeting)! 
-* Join one of the [mailing lists](#mailing-lists) to be kept up to date as the project progresses. 
+* Join one of the [mailing lists](#mailing-lists) to be kept up to date as the project progresses.
+* Participate in one of the [open discussions](#open-discussions)
 * [Share your data](#sharing-data) to ensure your specific use-case is represented. 
 * Help us design a new data format for multi-modal data ([data format mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)).
 
 ### Next meeting
 The next meeting is planned to take place before Christmas 2021 and will be announced on the mailing list. For information on what has been discussed at previous meetings, please see the [meeting notes](Meetings.md).
 
-
 ### Mailing lists
 * MSI and co. project mailing list [Subscribe](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco)
 * Data format design/development mailing list [Subscribe](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)
+
+### Open discussions
+* [Quantifiable metrics for image registration accuracy](https://github.com/MSIandCo/MSIandCo/issues/2)
+* [Bridging the gap between MSI data and other fields](https://github.com/MSIandCo/MSIandCo/issues/1)
 
 ## Sharing data
 Data shared as part of this collaboration will help to:
