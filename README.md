@@ -11,7 +11,7 @@ Mass spectrometry imaging and complementary techniques open collaboration.
 ### How can I get involved?
 * Join us at the [next meeting](#next-meeting)! 
 * Join one of the [mailing lists](#mailing-lists) to be kept up to date as the project progresses.
-* Participate in one of the [open discussions](#open-discussions)
+* Participate in one of the [open discussions](#open-discussions).
 * [Share your data](#sharing-data) to ensure your specific use-case is represented. 
 * Help us design a new data format for multi-modal data ([data format mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)).
 
