@@ -51,3 +51,6 @@ Please provide the answers to the following questions in an [email to us](mailto
 > 10. Which purpose(s) are you willing for your data to be used (e.g. inclusion in benchmark dataset, development of new algorithms, development of new format)?
 > 11. If your data forms part of the benchmark dataset, which licence would you like to use (e.g. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))?
 > 12. How would you like to be acknowledged (e.g. acknowledgement section, citation, Zenodo DOI, authorship) if your data is used in a publication prior to its release as part of the benchmark dataset?
+
+### Acknowledgements
+This project was supported by a virtual mobility grant from the COST action [COMULIS CA17121](www.comulis.eu).
