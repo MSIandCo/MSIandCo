@@ -16,7 +16,7 @@ Mass spectrometry imaging and complementary techniques open collaboration.
 * Help us design a new data format for multi-modal data ([data format mailing list](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco-format)).
 
 ### Next meeting
-The next meeting is planned to take place before Christmas 2021 and will be announced on the mailing list. For information on what has been discussed at previous meetings, please see the [meeting notes](Meetings.md).
+The next meeting will take place on 16th December at 15:00 CET. For information on what has been discussed at previous meetings, please see the [meeting notes](Meetings.md).
 
 ### Mailing lists
 * MSI and co. project mailing list [Subscribe](https://www.lists.uni-marburg.de/lists/sympa/subscribe/msiandco)
