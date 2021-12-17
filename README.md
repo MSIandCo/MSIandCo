@@ -53,4 +53,4 @@ Please provide the answers to the following questions in an [email to us](mailto
 > 12. How would you like to be acknowledged (e.g. acknowledgement section, citation, Zenodo DOI, authorship) if your data is used in a publication prior to its release as part of the benchmark dataset?
 
 ### Acknowledgements
-This project was supported by a virtual mobility grant from the COST action [COMULIS CA17121](www.comulis.eu).
+This project was supported by a virtual mobility grant from the COST action [COMULIS CA17121](https://www.comulis.eu/).
